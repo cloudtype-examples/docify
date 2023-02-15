@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "directories": {
-    "doc": "docs",
-	"start": "docify serve ."
+    "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "docify serve ."
   },
   "author": "",
   "license": "ISC",
